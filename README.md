@@ -1,6 +1,6 @@
 # Shallow Water Emulations
 
-👉    Read the [paper](/Docs/calanzone_shallow_water_emulations_eng.pdf)🇮🇬🇧
+👉    Read the [paper](/Docs/calanzone_shallow_water_emulations_eng.pdf) 🇬🇧
 <br>
 👉    Leggi il [paper](/Docs/calanzone_shallow_water_emulations.pdf) 🇮🇹
 <br>
