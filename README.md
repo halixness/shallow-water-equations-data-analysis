@@ -1,4 +1,4 @@
-# Shallow Water Emulations
+# Shallow Water Equations
 
 👉    Read the [paper](/Docs/calanzone_shallow_water_emulations_eng.pdf) 🇬🇧
 <br>
